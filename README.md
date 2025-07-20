@@ -1,3 +1,5 @@
+![TestComposer logo](./Composer.png)
+
 # TestComposer
 
 **TestComposer** is the software control and automation engine of the TC-Platform.  
