@@ -38,4 +38,4 @@ See: [LICENSE](LICENSE)
 
 ---
 
-© 2024 Horikari
+© 2025 Horikari
